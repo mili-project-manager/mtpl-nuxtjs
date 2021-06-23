@@ -1,0 +1,22 @@
+{
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "ca": "git add -A && git-cz -av",
+    "commit": "git-cz",
+    "release": "standard-version",
+    "release:first": "standard-version --first-release"
+  },
+  "dependencies": {
+    "@nuxt/typescript-runtime": "^2.1.0",
+    "nuxt": "^2.15.7"
+  },
+  "devDependencies": {
+    "@nuxt/types": "^2.15.7",
+    "@nuxt/typescript-build": "^2.1.0",
+    "@nuxtjs/eslint-config-typescript": "^6.0.1"
+  }
+}

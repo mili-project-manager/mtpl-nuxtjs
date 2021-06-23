@@ -1,0 +1,24 @@
+[
+  {
+    "path": ".eslintrc.yml",
+    "handlers": [
+      "merge-yaml"
+    ]
+  },
+  {
+    "path": "package.json.hbs",
+    "handlers": [
+      "handlebars",
+      "merge-json"
+    ]
+  },
+  {
+    "path": [
+      ".gitignore.hbs",
+      "README.md.hbs"
+    ],
+    "handlers": [
+      "handlebars"
+    ]
+  }
+]

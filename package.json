@@ -1,0 +1,41 @@
+{
+  "name": "@mtpl/nuxtjs",
+  "version": "0.0.1",
+  "description": "NuxtJS Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "is-ci || husky install",
+    "ca": "git add -A && git-cz -av",
+    "ci": "git-cz",
+    "release": "standard-version",
+    "release:alpha": "standard-version --prerelease alpha",
+    "release:first": "standard-version --first-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mili-project-manager/mtpl-nuxtjs.git"
+  },
+  "keywords": [
+    "nuxt",
+    "nuxtjs",
+    "template",
+    "mili"
+  ],
+  "author": "Val.istar.Guo <val.istar.guo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mili-project-manager/mtpl-nuxtjs/issues"
+  },
+  "homepage": "https://github.com/mili-project-manager/mtpl-nuxtjs#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^12.1.4",
+    "@commitlint/config-conventional": "^12.1.4",
+    "commitizen": "^4.2.4",
+    "cz-conventional-changelog": "^3.3.0",
+    "husky": "^5.2.0",
+    "is-ci": "^3.0.0",
+    "mili": "^4.6.0",
+    "standard-version": "^9.3.0"
+  }
+}
