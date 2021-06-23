@@ -16,9 +16,7 @@
         "filepath": "README.md",
         "sections": [
           "title",
-          "description",
-          "usage",
-          "addition"
+          "description"
         ]
       }
     }

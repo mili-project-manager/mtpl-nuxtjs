@@ -15,10 +15,24 @@
   {
     "path": [
       ".gitignore.hbs",
-      "README.md.hbs"
+      "README.md.hbs",
+      "tsconfig.json.hbs"
     ],
     "handlers": [
       "handlebars"
+    ]
+  },
+  {
+    "path": [
+      "components/**",
+      "layouts/**",
+      "middleware/**",
+      "pages/**",
+      "plugins/**",
+      "store/**"
+    ],
+    "handlers": [
+      "init"
     ]
   }
 ]
