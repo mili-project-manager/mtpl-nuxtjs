@@ -34,5 +34,13 @@
     "handlers": [
       "init"
     ]
+  },
+  {
+    "path": [
+      "nuxt.config.js"
+    ],
+    "handlers": [
+      "exist"
+    ]
   }
 ]

@@ -1,3 +1,3 @@
-export default {
-  buildModules: ['@nuxt/typescript-build']
-}
+import config from './.nuxtrc.json'
+
+export default config
