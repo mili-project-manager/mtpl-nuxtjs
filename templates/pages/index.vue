@@ -8,7 +8,7 @@
     </v-navigation-drawer>
 
     <v-app-bar app>
-      <v-app-bar-nav-icon @click="drawer = !drawer"></v-app-bar-nav-icon>
+      <v-app-bar-nav-icon @click="drawer = !drawer" />
 
       <v-toolbar-title>Application</v-toolbar-title>
     </v-app-bar>
@@ -20,10 +20,9 @@
 </template>
 <script lang="ts">
 export default {
+  data: () => ({ drawer: null }),
   head() {
     return { title: 'NuxtJS' }
   },
-
-  data: () => ({ drawer: null })
 }
 </script>
