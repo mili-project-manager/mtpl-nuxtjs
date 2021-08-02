@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.0.0](https://github.com/mili-project-manager/mtpl-nuxtjs/compare/v0.1.0...v1.0.0) (2021-08-02)
+
+
+### Features
+
+* rename gloabl.d.ts => internal.d.ts ([b7b68a7](https://github.com/mili-project-manager/mtpl-nuxtjs/commit/b7b68a79375adeb0702cabbee519e7af88fa280d))
+
+
+### Bug Fixes
+
+* eslint error in example page ([77018fb](https://github.com/mili-project-manager/mtpl-nuxtjs/commit/77018fb72ff762c1faea63678a57acb3eda7e482))
+* missing vuetify types ([01c7e56](https://github.com/mili-project-manager/mtpl-nuxtjs/commit/01c7e56d08d33b7ff560c1b52d0e1e83fd825b3d))
+* readme cannot render ([63877d7](https://github.com/mili-project-manager/mtpl-nuxtjs/commit/63877d72f955e425dfd440792bf1352b89909dd0))
+
 ## [0.1.0](https://www.github.com/mili-project-manager/mtpl-nuxtjs/compare/v0.0.1...v0.1.0) (2021-08-02)
 
 
