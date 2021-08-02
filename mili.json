@@ -6,7 +6,12 @@
     "npm:@mtpl/base",
     "npm:@mtpl/github",
     "npm:@mtpl/conventional-commits",
-    "npm:@mtpl/code-style"
+    {
+      "template": "npm:@mtpl/code-style",
+      "answers": {
+        "framework": "node"
+      }
+    }
   ],
   "loaders": [
     {
