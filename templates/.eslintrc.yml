@@ -1,2 +1,2 @@
 extends:
-  - @nuxtjs/eslint-config-typescript
+  - "@nuxtjs/eslint-config-typescript"
