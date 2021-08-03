@@ -4,7 +4,14 @@
   ],
   "extends": [
     "npm:@mtpl/base",
-    "npm:@mtpl/github",
+    {
+      "template": "npm:@mtpl/github",
+      "answers": {
+        "actions": [
+          "codeql-analysis"
+        ]
+      }
+    },
     "npm:@mtpl/conventional-commits",
     {
       "template": "npm:@mtpl/code-style",
