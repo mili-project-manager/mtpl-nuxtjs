@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.3.0](https://www.github.com/mili-project-manager/mtpl-nuxtjs/compare/v0.2.0...v0.3.0) (2021-08-03)
+
+
+### Features
+
+* bump version to 1.2.0 ([ae0893f](https://www.github.com/mili-project-manager/mtpl-nuxtjs/commit/ae0893f4ba86e24911f17f37f893b80d4a891bd8))
+
 ## [0.2.0](https://www.github.com/mili-project-manager/mtpl-nuxtjs/compare/v0.1.0...v0.2.0) (2021-08-03)
 
 
