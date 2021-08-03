@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.2.0](https://www.github.com/mili-project-manager/mtpl-nuxtjs/compare/v0.1.0...v0.2.0) (2021-08-03)
+
+
+### Features
+
+* add dockerfile ([935b545](https://www.github.com/mili-project-manager/mtpl-nuxtjs/commit/935b545545cd355c16aee6521a4e17a73928e475))
+* rename gloabl.d.ts => internal.d.ts ([b7b68a7](https://www.github.com/mili-project-manager/mtpl-nuxtjs/commit/b7b68a79375adeb0702cabbee519e7af88fa280d))
+
+
+### Bug Fixes
+
+* bind 0.0.0.0 when start ([d0c462e](https://www.github.com/mili-project-manager/mtpl-nuxtjs/commit/d0c462e5e0afae4996c743fecb8da9f6b7eae586))
+* dependent template prompt question ([f597664](https://www.github.com/mili-project-manager/mtpl-nuxtjs/commit/f5976642941012b506fcdfb1d231f91fb17eb56b))
+* eslint error in example page ([77018fb](https://www.github.com/mili-project-manager/mtpl-nuxtjs/commit/77018fb72ff762c1faea63678a57acb3eda7e482))
+* missing vuetify types ([01c7e56](https://www.github.com/mili-project-manager/mtpl-nuxtjs/commit/01c7e56d08d33b7ff560c1b52d0e1e83fd825b3d))
+* readme cannot render ([63877d7](https://www.github.com/mili-project-manager/mtpl-nuxtjs/commit/63877d72f955e425dfd440792bf1352b89909dd0))
+
 ## [1.0.0](https://github.com/mili-project-manager/mtpl-nuxtjs/compare/v0.1.0...v1.0.0) (2021-08-02)
 
 
