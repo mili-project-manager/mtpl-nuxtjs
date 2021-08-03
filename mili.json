@@ -12,13 +12,13 @@
         ]
       }
     },
-    "npm:@mtpl/conventional-commits",
     {
       "template": "npm:@mtpl/code-style",
       "answers": {
         "framework": "node"
       }
-    }
+    },
+    "npm:@mtpl/conventional-commits"
   ],
   "loaders": [
     "git",
