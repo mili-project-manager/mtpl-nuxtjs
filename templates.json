@@ -1,5 +1,19 @@
 [
   {
+    "path": [
+      ".github/workflows/release.yml.hbs"
+    ],
+    "handlers": [
+      {
+        "name": "ignore",
+        "options": {
+          "eval": "resource.repository.isGitHubRepo === false"
+        }
+      },
+      "handlebars"
+    ]
+  },
+  {
     "path": ".eslintrc.yml",
     "handlers": [
       "merge-yaml"
