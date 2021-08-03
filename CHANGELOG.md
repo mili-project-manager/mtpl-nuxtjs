@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.1](https://www.github.com/mili-project-manager/mtpl-nuxtjs/compare/v1.0.0...v1.0.1) (2021-08-03)
+
+
+### Performance Improvements
+
+* change the template rendering order ([82abc59](https://www.github.com/mili-project-manager/mtpl-nuxtjs/commit/82abc59721c03842da664f854e51773ea6f8950d))
+
 ## [1.0.0](https://www.github.com/mili-project-manager/mtpl-nuxtjs/compare/v0.2.0...v1.0.0) (2021-08-03)
 
 
