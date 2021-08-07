@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.2](https://www.github.com/mili-project-manager/mtpl-nuxtjs/compare/v1.0.1...v1.0.2) (2021-08-07)
+
+
+### Bug Fixes
+
+* page be shrunked on mobile ([6ecc244](https://www.github.com/mili-project-manager/mtpl-nuxtjs/commit/6ecc244763b54e27fab2a54f0d181dadd79b4595))
+
 ### [1.0.1](https://www.github.com/mili-project-manager/mtpl-nuxtjs/compare/v1.0.0...v1.0.1) (2021-08-03)
 
 
